@@ -9,10 +9,10 @@
 }
 
 .logo{
-	height: 300px;
-	width: 300px;
-	text-align: center;
-	margin: 20px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 20px;
+	margin-top: 24px;
 }
 p{
 	text-align: center;

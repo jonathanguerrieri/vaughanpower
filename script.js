@@ -6,7 +6,7 @@ function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
           center: myLocation,
           scrollwheel: false,
-          zoom: 15
+          zoom: 14
         });
 
         //add marker to center of map
@@ -17,7 +17,7 @@ function initMap() {
         });
 
          var infowindow = new google.maps.InfoWindow({
-          content: '<p>Vaughan Power Equipment<br> Sales and Service of Landscaping and Snow Removal Producyd</p>'
+          content: '<p>Vaughan Power Equipment<br> Sales and Service of Landscaping <br> and Snow Removal Products</p>'
         });
 
          //control window when marker is clicked
