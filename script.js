@@ -17,7 +17,7 @@ function initMap() {
         });
 
          var infowindow = new google.maps.InfoWindow({
-          content: '<p>dffsdfsd</p>'
+          content: '<p>Vaughan Power Equipment<br> Sales and Service of Landscaping and Snow Removal Producyd</p>'
         });
 
          //control window when marker is clicked
